@@ -1,0 +1,5 @@
+# Digital Archaeologist - Phase 1
+# Uses stdlib only for Phase 1
+# Future phases may add:
+# - requests (for HN/GitHub API trend mapping)
+# - sentence-transformers (for remix engine)
